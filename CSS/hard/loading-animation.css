@@ -1,0 +1,16 @@
+/*
+TASK: Loading Animation
+
+Requirements:
+- Create a loading spinner
+- Use only CSS animations
+- Smooth infinite animation
+*/
+
+.loader {
+  /* TODO: Loader styles */
+}
+
+@keyframes spin {
+  /* TODO: Animation */
+}

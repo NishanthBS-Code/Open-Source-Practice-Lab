@@ -1,0 +1,16 @@
+/*
+TASK: Grid Photo Gallery
+
+Requirements:
+- Use CSS Grid
+- Create a responsive gallery
+- Minimum 3 columns on large screens
+*/
+
+.gallery {
+  /* TODO: Grid layout */
+}
+
+.gallery img {
+  /* TODO: Image styling */
+}

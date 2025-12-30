@@ -1,0 +1,15 @@
+/*
+TASK: Dark Mode using CSS Variables
+
+Requirements:
+- Use CSS variables
+- Implement light and dark themes
+*/
+
+:root {
+  /* TODO: Define variables */
+}
+
+.dark-mode {
+  /* TODO: Override variables */
+}
