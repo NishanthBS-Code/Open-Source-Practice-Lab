@@ -8,13 +8,13 @@ A **beginner-friendly open source repository** designed to help developers learn
 
 ⭐ If this repository helps you, please consider **starring it** so more learners can discover it.
 
-
-![GitHub stars](https://img.shields.io/github/stars/Abhi-2516/Open-Source-Practice-Lab?style=for-the-badge)
-![GitHub forks](https://img.shields.io/github/forks/Abhi-2516/Open-Source-Practice-Lab?style=for-the-badge)
-![GitHub issues](https://img.shields.io/github/issues/Abhi-2516/Open-Source-Practice-Lab?style=for-the-badge)
+![GitHub stars](https://img.shields.io/github/stars/Abhi-2516/Open-Source-Practice-Lab?style=for-the-badge&cacheSeconds=300)
+![GitHub forks](https://img.shields.io/github/forks/Abhi-2516/Open-Source-Practice-Lab?style=for-the-badge&cacheSeconds=300)
+![GitHub issues](https://img.shields.io/github/issues/Abhi-2516/Open-Source-Practice-Lab?style=for-the-badge&cacheSeconds=300)
 ![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen?style=for-the-badge)
-![Beginner Friendly](https://img.shields.io/badge/beginner-friendly-blue?style=for-the-badge)
-![License](https://img.shields.io/github/license/Abhi-2516/Open-Source-Practice-Lab?style=for-the-badge)
+![Beginner Friendly](https://img.shields.io/badge/beginner--friendly-yes-blue?style=for-the-badge)
+![License](https://img.shields.io/github/license/Abhi-2516/Open-Source-Practice-Lab?style=for-the-badge&cacheSeconds=300)
+
 
 
 </div>
